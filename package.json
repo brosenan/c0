@@ -19,14 +19,14 @@
       }
     ],
     "languages": [{
-        "id": "hello",
-        "aliases": ["HelloFalks", "hello"],
-        "extensions": [".hello"],
+        "id": "c0",
+        "aliases": ["c0"],
+        "extensions": [".c0"],
         "configuration": "./language-configuration.json"
     }],
     "grammars": [{
-        "language": "hello",
-        "scopeName": "source.hello",
+        "language": "c0",
+        "scopeName": "source.c0",
         "path": "./syntaxes/c0.tmLanguage.json"
     }]
   },
